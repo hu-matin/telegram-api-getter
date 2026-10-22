@@ -9,7 +9,7 @@ Automates the process of logging into my.telegram.org and retrieving your API cr
 ## Installation
 
 ```bash
-git clone https://github.com/hu-matin/ihgetter.git
+git clone https://github.com/hu-matin/telegram-api-getter.git
 cd ihgetter
 uv sync
 ```
